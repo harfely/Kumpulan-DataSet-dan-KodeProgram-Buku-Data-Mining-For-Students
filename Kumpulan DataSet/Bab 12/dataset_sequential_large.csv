@@ -1,0 +1,1001 @@
+Customer_ID,Transaction_Date,Items
+40,2024-01-21,"Casing, Keyboard, Tas Laptop"
+101,2024-01-27,"Mouse, Smartphone"
+118,2024-01-12,Tas Laptop
+135,2024-01-12,"Buku, Casing, Pulpen"
+147,2024-01-26,Smartphone
+142,2024-02-02,"Tas Laptop, Smartphone, Mousepad"
+91,2024-02-23,Mousepad
+164,2024-02-25,Buku
+112,2024-02-28,"Headphone, Laptop"
+139,2024-02-25,"Keyboard, Mouse"
+36,2024-01-09,"Monitor, Tas Laptop, Flashdisk"
+36,2024-02-13,"Mousepad, Laptop"
+10,2024-01-04,Keyboard
+20,2024-01-17,"Mouse, Pulpen, Keyboard"
+42,2024-02-13,"Charger, Tas Laptop, Casing"
+40,2024-01-08,"Headphone, Casing"
+1,2024-01-05,"Laptop, Keyboard, Pulpen"
+125,2024-02-18,"Keyboard, Smartphone"
+73,2024-01-26,Casing
+170,2024-01-23,"Buku, Headphone, Keyboard"
+135,2024-02-08,Mousepad
+16,2024-02-16,"Keyboard, Pulpen, Laptop"
+95,2024-01-31,"Mousepad, Laptop, Flashdisk"
+159,2024-02-25,"Headphone, Charger, Buku"
+106,2024-02-26,"Casing, Smartphone, Tas Laptop"
+68,2024-01-10,"Mouse, Flashdisk, Mousepad"
+89,2024-01-13,Mousepad
+188,2024-01-06,"Laptop, Mouse"
+149,2024-01-15,"Charger, Flashdisk"
+104,2024-01-22,"Headphone, Smartphone, Mouse"
+20,2024-02-13,Casing
+179,2024-02-24,"Buku, Mousepad"
+82,2024-02-01,Flashdisk
+157,2024-02-27,"Keyboard, Flashdisk, Charger"
+46,2024-01-18,"Laptop, Casing"
+81,2024-01-26,"Charger, Pulpen"
+47,2024-02-13,"Smartphone, Casing"
+40,2024-01-29,"Mouse, Tas Laptop"
+170,2024-01-27,Flashdisk
+101,2024-02-03,Mouse
+34,2024-02-06,Mousepad
+97,2024-02-13,Charger
+200,2024-02-11,"Pulpen, Keyboard"
+73,2024-01-01,"Pulpen, Smartphone"
+117,2024-01-11,Mouse
+7,2024-02-09,"Smartphone, Mousepad, Pulpen"
+191,2024-02-06,"Pulpen, Headphone"
+40,2024-01-21,"Casing, Mousepad"
+101,2024-01-15,"Monitor, Tas Laptop"
+57,2024-01-27,"Buku, Casing, Mousepad"
+67,2024-02-14,Mouse
+165,2024-01-04,Keyboard
+138,2024-02-17,"Casing, Buku, Flashdisk"
+182,2024-01-21,"Tas Laptop, Charger"
+46,2024-02-03,"Smartphone, Keyboard, Tas Laptop"
+66,2024-02-23,"Headphone, Buku, Pulpen"
+114,2024-02-27,"Headphone, Casing"
+34,2024-02-04,"Pulpen, Buku"
+102,2024-01-18,"Monitor, Casing, Buku"
+41,2024-01-04,"Keyboard, Pulpen"
+39,2024-01-07,"Casing, Smartphone, Mouse"
+119,2024-01-08,"Charger, Casing, Laptop"
+120,2024-02-04,"Flashdisk, Keyboard"
+173,2024-02-03,Laptop
+28,2024-02-26,"Laptop, Pulpen"
+29,2024-01-20,"Mouse, Pulpen"
+173,2024-01-24,"Mousepad, Mouse, Pulpen"
+117,2024-01-19,Mouse
+85,2024-02-25,"Tas Laptop, Buku, Casing"
+151,2024-01-10,Laptop
+61,2024-02-18,"Pulpen, Keyboard"
+133,2024-02-28,"Headphone, Casing, Mousepad"
+103,2024-01-14,"Headphone, Tas Laptop, Buku"
+125,2024-03-01,Tas Laptop
+74,2024-01-31,Pulpen
+5,2024-02-06,Buku
+188,2024-01-02,Monitor
+102,2024-02-11,"Pulpen, Headphone"
+145,2024-02-23,Keyboard
+72,2024-01-23,Laptop
+147,2024-01-31,"Pulpen, Laptop"
+141,2024-02-21,Mousepad
+114,2024-03-01,"Casing, Buku"
+112,2024-01-10,Buku
+20,2024-02-20,Tas Laptop
+148,2024-02-02,"Charger, Smartphone"
+193,2024-02-27,"Mousepad, Charger"
+101,2024-01-01,"Monitor, Flashdisk"
+154,2024-02-11,Mouse
+190,2024-02-01,"Laptop, Keyboard, Headphone"
+187,2024-01-15,"Headphone, Flashdisk"
+35,2024-02-11,"Pulpen, Tas Laptop"
+185,2024-01-02,"Mouse, Flashdisk"
+124,2024-01-25,"Pulpen, Buku"
+109,2024-01-26,"Smartphone, Flashdisk"
+119,2024-01-17,"Charger, Casing, Mouse"
+33,2024-02-21,"Flashdisk, Monitor, Keyboard"
+87,2024-02-24,"Mousepad, Smartphone, Pulpen"
+145,2024-02-26,"Charger, Mousepad, Casing"
+185,2024-02-24,Charger
+155,2024-01-16,Keyboard
+143,2024-01-04,"Mouse, Mousepad"
+39,2024-01-09,Headphone
+195,2024-01-18,Keyboard
+139,2024-02-22,Pulpen
+38,2024-03-01,Buku
+153,2024-03-01,"Casing, Laptop, Mousepad"
+66,2024-01-17,"Headphone, Casing"
+126,2024-01-18,"Tas Laptop, Pulpen, Laptop"
+21,2024-01-15,"Pulpen, Headphone"
+40,2024-02-15,Smartphone
+166,2024-01-22,"Tas Laptop, Flashdisk"
+177,2024-02-27,Laptop
+176,2024-02-09,Charger
+168,2024-02-07,Flashdisk
+198,2024-01-24,"Laptop, Mouse, Keyboard"
+67,2024-01-14,"Mouse, Pulpen"
+32,2024-02-26,"Smartphone, Mousepad"
+56,2024-01-24,"Charger, Mouse"
+154,2024-01-29,"Casing, Pulpen"
+48,2024-02-10,"Mouse, Tas Laptop, Mousepad"
+106,2024-01-27,"Keyboard, Mouse"
+152,2024-02-23,Buku
+133,2024-01-02,"Keyboard, Casing"
+131,2024-01-30,Charger
+199,2024-02-16,Flashdisk
+106,2024-01-29,Tas Laptop
+185,2024-01-15,"Mouse, Buku"
+177,2024-02-14,"Laptop, Flashdisk, Tas Laptop"
+61,2024-01-05,Buku
+128,2024-02-24,Smartphone
+11,2024-01-29,"Flashdisk, Pulpen"
+86,2024-01-10,"Flashdisk, Mousepad"
+33,2024-01-14,"Headphone, Charger"
+143,2024-02-22,"Headphone, Tas Laptop"
+136,2024-02-13,"Pulpen, Charger"
+173,2024-01-26,Mouse
+191,2024-01-20,Flashdisk
+173,2024-02-18,"Mouse, Smartphone, Headphone"
+21,2024-02-15,"Charger, Keyboard"
+173,2024-01-11,Headphone
+9,2024-01-29,"Laptop, Casing"
+169,2024-01-31,"Pulpen, Laptop, Tas Laptop"
+46,2024-02-23,"Buku, Smartphone"
+34,2024-02-05,"Flashdisk, Mouse, Charger"
+77,2024-02-11,"Charger, Pulpen, Laptop"
+146,2024-01-05,"Mouse, Mousepad, Casing"
+37,2024-02-08,"Monitor, Buku"
+115,2024-01-12,"Headphone, Tas Laptop"
+29,2024-01-31,"Monitor, Charger"
+171,2024-01-30,Monitor
+47,2024-01-01,Tas Laptop
+186,2024-02-16,"Charger, Smartphone, Flashdisk"
+70,2024-02-20,Laptop
+165,2024-02-21,"Charger, Headphone"
+132,2024-02-23,"Laptop, Flashdisk, Monitor"
+67,2024-02-14,Mouse
+49,2024-03-01,"Casing, Headphone"
+86,2024-01-04,Pulpen
+12,2024-01-12,"Headphone, Tas Laptop, Buku"
+41,2024-02-16,Laptop
+70,2024-01-17,"Smartphone, Mousepad"
+190,2024-02-20,"Headphone, Pulpen"
+134,2024-02-15,"Buku, Headphone, Pulpen"
+179,2024-02-09,Flashdisk
+34,2024-01-07,Keyboard
+62,2024-02-17,"Charger, Smartphone"
+15,2024-02-15,Mousepad
+124,2024-02-06,"Tas Laptop, Smartphone, Flashdisk"
+106,2024-03-01,"Smartphone, Mousepad"
+159,2024-01-07,"Laptop, Buku"
+109,2024-01-01,"Monitor, Keyboard, Smartphone"
+104,2024-01-09,Laptop
+94,2024-01-02,"Tas Laptop, Mousepad"
+88,2024-02-05,"Mousepad, Monitor"
+189,2024-01-14,"Laptop, Smartphone"
+153,2024-02-20,"Smartphone, Casing, Headphone"
+48,2024-02-01,Smartphone
+92,2024-02-28,"Charger, Smartphone, Mousepad"
+115,2024-02-25,Casing
+61,2024-02-14,"Pulpen, Headphone, Mouse"
+3,2024-02-02,"Buku, Charger"
+152,2024-01-13,"Pulpen, Monitor"
+87,2024-02-23,"Laptop, Flashdisk, Tas Laptop"
+164,2024-02-22,"Laptop, Casing"
+95,2024-01-04,Keyboard
+21,2024-01-01,"Mousepad, Flashdisk"
+170,2024-01-22,"Tas Laptop, Flashdisk, Mouse"
+125,2024-01-11,"Tas Laptop, Mouse"
+22,2024-01-14,"Keyboard, Mousepad"
+81,2024-01-13,"Laptop, Charger"
+191,2024-01-30,"Tas Laptop, Monitor, Keyboard"
+45,2024-01-24,Pulpen
+101,2024-01-21,Monitor
+58,2024-02-13,Tas Laptop
+169,2024-01-02,"Headphone, Laptop"
+151,2024-01-27,Keyboard
+73,2024-01-28,"Smartphone, Laptop"
+102,2024-01-08,"Monitor, Flashdisk, Laptop"
+101,2024-02-03,"Pulpen, Charger"
+169,2024-02-14,Buku
+11,2024-02-24,"Mouse, Tas Laptop, Monitor"
+2,2024-01-07,"Pulpen, Headphone, Charger"
+9,2024-02-24,"Buku, Keyboard"
+132,2024-01-15,Keyboard
+68,2024-01-31,"Buku, Charger, Casing"
+44,2024-01-27,"Keyboard, Mouse, Charger"
+37,2024-02-24,"Smartphone, Buku"
+158,2024-02-26,Casing
+115,2024-02-02,Smartphone
+20,2024-02-07,Smartphone
+172,2024-01-27,"Keyboard, Charger, Mouse"
+105,2024-01-11,"Tas Laptop, Mouse, Casing"
+59,2024-02-18,"Keyboard, Headphone"
+73,2024-02-03,"Keyboard, Flashdisk"
+107,2024-01-21,"Casing, Laptop"
+2,2024-02-12,Laptop
+94,2024-02-29,"Mouse, Laptop"
+190,2024-02-18,"Headphone, Monitor, Laptop"
+25,2024-01-24,Pulpen
+12,2024-01-24,Casing
+41,2024-01-18,"Mousepad, Pulpen, Monitor"
+110,2024-02-27,Flashdisk
+166,2024-01-09,Smartphone
+99,2024-01-27,"Keyboard, Pulpen, Mouse"
+176,2024-02-05,"Buku, Tas Laptop"
+65,2024-01-08,"Pulpen, Mousepad, Laptop"
+73,2024-02-09,Charger
+47,2024-02-11,"Charger, Smartphone"
+70,2024-01-31,"Charger, Mousepad"
+195,2024-03-01,"Casing, Tas Laptop"
+100,2024-02-07,"Flashdisk, Keyboard, Mousepad"
+134,2024-02-29,Casing
+141,2024-01-02,Keyboard
+133,2024-01-05,"Smartphone, Tas Laptop, Keyboard"
+17,2024-02-21,"Monitor, Buku, Mouse"
+195,2024-03-01,"Flashdisk, Keyboard, Pulpen"
+31,2024-01-28,Buku
+105,2024-02-03,"Tas Laptop, Laptop, Keyboard"
+45,2024-02-23,"Buku, Keyboard, Smartphone"
+42,2024-01-05,Mouse
+144,2024-01-08,Smartphone
+55,2024-01-10,"Tas Laptop, Smartphone"
+190,2024-01-03,"Mousepad, Tas Laptop"
+10,2024-02-09,"Charger, Mousepad"
+193,2024-02-23,"Mousepad, Headphone"
+44,2024-01-09,"Mouse, Monitor"
+126,2024-01-14,"Buku, Mouse"
+40,2024-02-29,"Casing, Mouse"
+168,2024-02-17,"Mousepad, Charger, Pulpen"
+156,2024-02-19,"Monitor, Mouse, Laptop"
+84,2024-02-13,"Smartphone, Pulpen"
+24,2024-01-05,"Flashdisk, Mouse"
+149,2024-01-09,"Tas Laptop, Smartphone, Mouse"
+162,2024-02-25,Pulpen
+164,2024-01-26,"Headphone, Tas Laptop, Pulpen"
+110,2024-02-02,"Mouse, Mousepad"
+24,2024-01-03,Headphone
+120,2024-02-13,"Flashdisk, Pulpen"
+185,2024-02-02,"Headphone, Monitor"
+142,2024-02-17,"Mousepad, Headphone, Monitor"
+3,2024-02-10,"Casing, Tas Laptop, Mousepad"
+79,2024-01-27,Casing
+96,2024-02-24,Monitor
+21,2024-01-20,Smartphone
+131,2024-02-03,Mouse
+73,2024-02-13,"Laptop, Mouse"
+122,2024-02-16,"Casing, Tas Laptop, Flashdisk"
+17,2024-01-17,Charger
+106,2024-01-25,"Keyboard, Casing"
+72,2024-01-14,"Pulpen, Tas Laptop"
+109,2024-01-23,"Mouse, Buku"
+5,2024-02-07,Casing
+51,2024-02-18,"Mousepad, Smartphone, Headphone"
+9,2024-02-16,Flashdisk
+33,2024-02-19,"Laptop, Charger, Mousepad"
+101,2024-02-20,"Buku, Casing, Keyboard"
+155,2024-02-25,"Tas Laptop, Monitor, Buku"
+152,2024-02-23,"Tas Laptop, Pulpen, Laptop"
+83,2024-02-05,"Tas Laptop, Pulpen, Buku"
+173,2024-01-19,Headphone
+136,2024-01-19,"Casing, Laptop, Mouse"
+98,2024-01-16,Mouse
+200,2024-01-31,Smartphone
+169,2024-01-18,Smartphone
+93,2024-02-23,"Laptop, Monitor"
+73,2024-02-28,Keyboard
+119,2024-01-23,"Flashdisk, Smartphone"
+67,2024-01-13,"Mouse, Monitor, Tas Laptop"
+186,2024-01-03,Keyboard
+98,2024-02-29,"Monitor, Mouse"
+38,2024-02-12,"Laptop, Monitor, Buku"
+71,2024-01-25,"Laptop, Pulpen, Charger"
+73,2024-02-10,"Buku, Charger, Mouse"
+169,2024-02-14,Monitor
+83,2024-02-27,Mouse
+198,2024-01-30,"Buku, Keyboard"
+5,2024-01-09,"Headphone, Keyboard"
+164,2024-01-30,"Keyboard, Headphone, Charger"
+148,2024-02-08,"Smartphone, Mouse"
+78,2024-02-27,Flashdisk
+188,2024-02-01,"Headphone, Buku, Keyboard"
+120,2024-01-31,Flashdisk
+78,2024-01-31,Mouse
+54,2024-02-21,"Pulpen, Monitor, Flashdisk"
+68,2024-01-29,"Buku, Flashdisk, Monitor"
+85,2024-02-06,"Buku, Headphone"
+82,2024-02-28,"Keyboard, Pulpen, Headphone"
+142,2024-02-11,Laptop
+74,2024-01-18,"Smartphone, Buku"
+130,2024-01-22,"Casing, Mouse"
+87,2024-02-19,"Smartphone, Keyboard, Flashdisk"
+98,2024-02-27,"Charger, Flashdisk, Tas Laptop"
+160,2024-01-20,Headphone
+42,2024-02-01,Smartphone
+183,2024-01-25,"Flashdisk, Mouse"
+64,2024-02-02,"Keyboard, Smartphone"
+59,2024-02-04,"Pulpen, Monitor"
+158,2024-01-19,"Buku, Monitor, Flashdisk"
+75,2024-02-01,"Monitor, Headphone, Keyboard"
+60,2024-01-10,"Tas Laptop, Buku, Casing"
+14,2024-02-09,"Mousepad, Pulpen"
+168,2024-01-15,"Charger, Pulpen"
+122,2024-02-05,"Flashdisk, Keyboard, Charger"
+185,2024-01-19,"Keyboard, Flashdisk, Headphone"
+18,2024-01-04,"Charger, Headphone"
+192,2024-01-25,"Mousepad, Tas Laptop, Flashdisk"
+164,2024-01-04,"Buku, Mouse"
+28,2024-01-04,"Mouse, Laptop"
+122,2024-01-20,"Monitor, Mousepad"
+75,2024-01-25,"Laptop, Keyboard"
+110,2024-02-07,Flashdisk
+182,2024-02-12,Flashdisk
+22,2024-01-04,Laptop
+41,2024-03-01,"Flashdisk, Pulpen, Mousepad"
+147,2024-02-03,Headphone
+128,2024-02-09,"Buku, Pulpen, Laptop"
+64,2024-02-29,Tas Laptop
+92,2024-01-13,Mousepad
+80,2024-01-03,Tas Laptop
+189,2024-01-03,"Charger, Flashdisk"
+49,2024-01-01,"Casing, Mousepad"
+74,2024-01-13,"Headphone, Keyboard, Mousepad"
+85,2024-01-28,"Charger, Flashdisk, Monitor"
+46,2024-01-02,"Flashdisk, Smartphone"
+182,2024-01-23,"Tas Laptop, Headphone"
+120,2024-02-12,"Keyboard, Buku, Mousepad"
+85,2024-02-26,"Monitor, Keyboard"
+43,2024-01-13,"Mousepad, Casing"
+141,2024-02-27,"Smartphone, Monitor"
+187,2024-01-09,"Mousepad, Headphone, Laptop"
+169,2024-02-02,"Buku, Flashdisk, Casing"
+93,2024-01-23,Mouse
+68,2024-02-16,"Smartphone, Buku"
+172,2024-02-05,Mouse
+91,2024-02-17,"Casing, Tas Laptop"
+156,2024-01-17,Headphone
+27,2024-01-03,Smartphone
+73,2024-02-10,"Pulpen, Buku, Monitor"
+163,2024-01-07,Mousepad
+9,2024-02-04,"Mouse, Tas Laptop"
+182,2024-01-14,Mousepad
+106,2024-01-18,"Pulpen, Smartphone, Mousepad"
+185,2024-02-05,"Monitor, Casing, Smartphone"
+19,2024-01-12,Mouse
+29,2024-01-07,Casing
+171,2024-03-01,"Headphone, Flashdisk, Keyboard"
+169,2024-02-07,"Smartphone, Headphone, Flashdisk"
+175,2024-01-05,"Tas Laptop, Laptop"
+122,2024-01-25,Smartphone
+79,2024-01-11,"Casing, Mouse, Monitor"
+2,2024-01-28,"Monitor, Keyboard"
+159,2024-01-04,"Casing, Buku"
+145,2024-02-29,"Keyboard, Mousepad, Flashdisk"
+25,2024-01-25,"Tas Laptop, Smartphone, Mouse"
+133,2024-01-06,"Buku, Tas Laptop"
+88,2024-02-16,"Mousepad, Tas Laptop"
+9,2024-01-20,"Mousepad, Mouse"
+98,2024-01-25,"Keyboard, Mousepad, Charger"
+74,2024-02-16,Laptop
+139,2024-01-05,Pulpen
+58,2024-01-09,"Charger, Smartphone, Tas Laptop"
+9,2024-01-27,"Laptop, Pulpen, Mousepad"
+199,2024-01-01,"Smartphone, Casing, Keyboard"
+199,2024-01-28,Pulpen
+176,2024-01-04,"Keyboard, Pulpen, Charger"
+35,2024-01-24,"Laptop, Flashdisk"
+125,2024-01-19,"Keyboard, Casing"
+94,2024-01-22,"Mousepad, Keyboard, Charger"
+29,2024-01-24,"Tas Laptop, Flashdisk"
+74,2024-01-23,Mousepad
+116,2024-01-10,"Laptop, Charger"
+76,2024-01-17,"Buku, Keyboard"
+2,2024-01-31,Smartphone
+19,2024-02-29,Tas Laptop
+50,2024-01-16,"Mousepad, Keyboard"
+146,2024-02-09,"Headphone, Monitor, Buku"
+135,2024-01-08,"Keyboard, Laptop"
+36,2024-02-15,"Mousepad, Flashdisk, Keyboard"
+13,2024-01-09,"Tas Laptop, Flashdisk, Mousepad"
+119,2024-01-03,"Mouse, Monitor, Tas Laptop"
+138,2024-02-01,"Pulpen, Flashdisk"
+86,2024-02-13,Headphone
+75,2024-02-01,"Charger, Laptop, Smartphone"
+108,2024-02-06,"Buku, Flashdisk"
+158,2024-01-31,"Tas Laptop, Monitor, Laptop"
+120,2024-01-06,"Pulpen, Headphone, Buku"
+36,2024-01-13,Mouse
+68,2024-02-24,"Keyboard, Buku, Monitor"
+110,2024-01-15,"Headphone, Flashdisk"
+16,2024-01-17,"Mouse, Buku, Casing"
+170,2024-02-16,"Tas Laptop, Flashdisk, Monitor"
+176,2024-02-04,"Mouse, Headphone"
+200,2024-02-23,Headphone
+166,2024-01-26,"Charger, Casing"
+75,2024-03-01,Tas Laptop
+129,2024-02-09,"Casing, Headphone"
+179,2024-01-11,"Headphone, Pulpen"
+97,2024-01-24,"Laptop, Tas Laptop, Buku"
+157,2024-02-14,"Keyboard, Pulpen, Smartphone"
+152,2024-02-20,"Charger, Flashdisk"
+94,2024-02-10,Mousepad
+149,2024-01-29,"Flashdisk, Mouse, Monitor"
+132,2024-01-17,"Mousepad, Laptop"
+154,2024-01-10,"Keyboard, Laptop, Pulpen"
+140,2024-02-14,"Casing, Mousepad"
+78,2024-02-12,"Monitor, Pulpen"
+50,2024-01-08,"Smartphone, Keyboard"
+84,2024-02-09,"Monitor, Pulpen"
+128,2024-02-17,"Headphone, Casing"
+10,2024-01-10,"Tas Laptop, Laptop, Keyboard"
+58,2024-02-13,"Monitor, Flashdisk, Smartphone"
+1,2024-01-01,"Mousepad, Mouse, Monitor"
+177,2024-01-15,"Monitor, Mouse"
+108,2024-02-04,"Charger, Pulpen"
+111,2024-01-11,Keyboard
+51,2024-01-14,"Casing, Charger"
+54,2024-02-08,Mouse
+131,2024-01-21,"Pulpen, Charger"
+107,2024-01-20,Charger
+145,2024-02-05,"Keyboard, Laptop, Monitor"
+123,2024-01-28,Mousepad
+4,2024-02-27,"Laptop, Pulpen"
+130,2024-01-27,Smartphone
+166,2024-01-17,Buku
+167,2024-01-31,"Buku, Headphone, Keyboard"
+30,2024-02-17,"Keyboard, Laptop"
+147,2024-01-07,"Monitor, Mouse, Buku"
+138,2024-01-22,"Mousepad, Buku, Headphone"
+10,2024-02-09,Casing
+196,2024-01-14,"Pulpen, Mouse"
+137,2024-01-04,"Pulpen, Monitor"
+200,2024-02-18,Tas Laptop
+183,2024-01-31,Charger
+131,2024-02-14,"Smartphone, Tas Laptop"
+188,2024-01-21,"Laptop, Smartphone"
+92,2024-02-09,Monitor
+23,2024-01-18,Laptop
+5,2024-02-01,"Smartphone, Headphone, Mouse"
+10,2024-02-03,"Monitor, Buku"
+11,2024-02-14,Flashdisk
+143,2024-02-04,"Buku, Pulpen"
+141,2024-01-10,Flashdisk
+150,2024-01-09,Mouse
+19,2024-02-25,Mouse
+37,2024-02-20,Headphone
+7,2024-02-23,Headphone
+93,2024-02-21,"Charger, Smartphone, Mousepad"
+77,2024-01-15,"Monitor, Charger"
+62,2024-02-20,"Buku, Casing"
+33,2024-01-12,Pulpen
+168,2024-02-12,"Pulpen, Tas Laptop"
+146,2024-01-21,"Laptop, Flashdisk"
+105,2024-01-09,"Keyboard, Flashdisk, Monitor"
+188,2024-01-22,"Monitor, Mouse"
+90,2024-01-28,"Keyboard, Laptop"
+77,2024-01-06,"Charger, Smartphone"
+97,2024-02-29,"Mouse, Smartphone"
+122,2024-02-14,"Keyboard, Mouse"
+31,2024-02-14,Flashdisk
+148,2024-02-29,"Tas Laptop, Laptop, Buku"
+125,2024-03-01,Monitor
+78,2024-01-24,Tas Laptop
+166,2024-01-20,Keyboard
+103,2024-02-26,"Pulpen, Mousepad"
+51,2024-02-27,Tas Laptop
+41,2024-02-06,"Mouse, Keyboard, Flashdisk"
+47,2024-03-01,"Buku, Charger, Flashdisk"
+195,2024-01-13,"Pulpen, Casing, Smartphone"
+158,2024-02-02,"Mousepad, Charger, Flashdisk"
+99,2024-01-08,Pulpen
+91,2024-01-15,Mouse
+82,2024-01-29,"Laptop, Smartphone, Flashdisk"
+86,2024-02-22,"Flashdisk, Mouse, Headphone"
+64,2024-01-14,"Pulpen, Buku, Keyboard"
+161,2024-02-12,Tas Laptop
+140,2024-02-14,"Charger, Laptop, Monitor"
+62,2024-02-09,"Monitor, Laptop, Flashdisk"
+88,2024-02-10,Headphone
+101,2024-01-30,"Buku, Mousepad, Pulpen"
+199,2024-01-18,"Buku, Mousepad, Smartphone"
+68,2024-02-14,"Smartphone, Keyboard"
+82,2024-01-12,"Casing, Keyboard, Buku"
+190,2024-01-01,"Tas Laptop, Mousepad, Buku"
+140,2024-01-26,"Charger, Casing, Headphone"
+116,2024-01-15,"Buku, Smartphone, Pulpen"
+102,2024-02-21,Monitor
+157,2024-02-15,"Headphone, Monitor, Mouse"
+14,2024-02-22,"Buku, Monitor, Headphone"
+72,2024-02-01,"Mousepad, Buku"
+189,2024-01-27,"Headphone, Monitor, Smartphone"
+73,2024-01-18,"Buku, Tas Laptop, Flashdisk"
+6,2024-01-06,Tas Laptop
+25,2024-01-09,"Mousepad, Laptop"
+111,2024-01-30,"Tas Laptop, Smartphone, Laptop"
+172,2024-02-05,"Flashdisk, Buku, Laptop"
+146,2024-02-02,"Laptop, Mouse"
+164,2024-01-17,"Charger, Keyboard"
+13,2024-02-14,"Keyboard, Laptop, Buku"
+85,2024-02-07,"Casing, Tas Laptop"
+63,2024-01-11,Charger
+118,2024-01-28,"Monitor, Buku"
+45,2024-03-01,"Monitor, Buku, Mousepad"
+168,2024-01-18,"Laptop, Tas Laptop, Headphone"
+92,2024-01-01,"Tas Laptop, Pulpen"
+135,2024-01-26,"Headphone, Keyboard, Casing"
+21,2024-01-31,"Charger, Laptop"
+80,2024-03-01,"Pulpen, Flashdisk, Monitor"
+135,2024-02-29,"Tas Laptop, Flashdisk"
+43,2024-01-19,"Monitor, Casing, Tas Laptop"
+154,2024-01-26,"Laptop, Pulpen"
+15,2024-02-24,Pulpen
+157,2024-01-21,"Flashdisk, Mouse"
+185,2024-02-03,"Laptop, Headphone"
+112,2024-02-21,"Pulpen, Buku"
+4,2024-02-12,"Casing, Headphone, Tas Laptop"
+185,2024-01-04,Charger
+84,2024-02-29,"Smartphone, Charger, Mousepad"
+49,2024-02-25,Buku
+122,2024-01-08,"Headphone, Keyboard"
+129,2024-01-09,Tas Laptop
+174,2024-01-19,Pulpen
+75,2024-01-28,"Monitor, Charger"
+187,2024-02-23,"Pulpen, Charger"
+52,2024-02-06,"Monitor, Flashdisk, Buku"
+60,2024-02-27,"Buku, Charger"
+88,2024-01-19,"Headphone, Monitor"
+12,2024-02-20,"Pulpen, Mouse"
+26,2024-01-30,"Casing, Charger"
+113,2024-01-29,Keyboard
+170,2024-01-02,Buku
+11,2024-01-16,"Charger, Headphone, Laptop"
+57,2024-02-18,"Charger, Mouse"
+40,2024-01-15,"Tas Laptop, Laptop, Monitor"
+18,2024-01-16,"Casing, Pulpen"
+10,2024-02-02,"Mousepad, Headphone, Tas Laptop"
+125,2024-01-28,Mouse
+19,2024-01-17,"Flashdisk, Pulpen, Buku"
+44,2024-02-04,"Tas Laptop, Keyboard, Charger"
+92,2024-01-12,"Pulpen, Tas Laptop"
+175,2024-02-19,"Tas Laptop, Smartphone, Headphone"
+174,2024-02-10,"Laptop, Tas Laptop"
+84,2024-01-31,"Headphone, Keyboard"
+187,2024-01-27,"Smartphone, Buku, Charger"
+80,2024-01-22,"Mousepad, Laptop, Pulpen"
+13,2024-02-17,Flashdisk
+61,2024-01-18,Headphone
+55,2024-01-30,Keyboard
+29,2024-02-24,"Flashdisk, Buku"
+187,2024-02-24,Buku
+15,2024-01-12,"Charger, Casing"
+158,2024-02-12,"Headphone, Charger"
+23,2024-01-01,"Charger, Casing"
+67,2024-02-09,Charger
+86,2024-01-09,"Flashdisk, Headphone"
+172,2024-01-10,"Keyboard, Headphone"
+111,2024-02-20,"Mousepad, Monitor, Headphone"
+128,2024-01-27,Keyboard
+149,2024-02-17,Mouse
+184,2024-01-02,"Pulpen, Charger"
+67,2024-01-01,Buku
+168,2024-01-16,Mouse
+88,2024-02-12,Casing
+149,2024-02-18,Mousepad
+133,2024-02-12,Mouse
+126,2024-02-06,"Mouse, Smartphone"
+73,2024-01-31,"Mouse, Flashdisk, Casing"
+35,2024-01-18,Laptop
+151,2024-01-02,"Casing, Laptop"
+114,2024-01-27,"Flashdisk, Monitor, Keyboard"
+53,2024-01-23,Mouse
+47,2024-01-18,"Casing, Monitor"
+97,2024-03-01,Laptop
+30,2024-01-10,Casing
+20,2024-01-18,"Buku, Casing, Keyboard"
+129,2024-02-02,"Flashdisk, Mousepad, Keyboard"
+19,2024-01-09,"Laptop, Smartphone, Mousepad"
+123,2024-01-07,Headphone
+34,2024-01-27,"Flashdisk, Pulpen"
+25,2024-01-19,"Pulpen, Casing, Laptop"
+86,2024-01-04,Monitor
+121,2024-01-29,"Tas Laptop, Monitor"
+157,2024-02-03,"Laptop, Pulpen"
+81,2024-01-30,"Headphone, Buku"
+134,2024-01-15,"Flashdisk, Buku"
+33,2024-02-19,"Tas Laptop, Headphone, Flashdisk"
+181,2024-01-06,Keyboard
+98,2024-01-29,Mouse
+185,2024-01-07,Buku
+101,2024-02-16,"Mousepad, Smartphone, Mouse"
+70,2024-01-20,"Mouse, Pulpen, Laptop"
+120,2024-01-01,Pulpen
+62,2024-02-23,"Pulpen, Mousepad"
+142,2024-01-01,"Keyboard, Laptop, Flashdisk"
+104,2024-02-14,"Mouse, Pulpen, Smartphone"
+192,2024-02-11,Tas Laptop
+84,2024-01-02,"Buku, Smartphone"
+139,2024-01-05,"Tas Laptop, Buku, Smartphone"
+160,2024-02-17,Headphone
+25,2024-01-15,"Buku, Laptop"
+174,2024-02-15,"Smartphone, Tas Laptop, Charger"
+151,2024-02-28,"Flashdisk, Tas Laptop, Pulpen"
+19,2024-01-21,Monitor
+51,2024-02-01,"Headphone, Keyboard"
+64,2024-02-26,"Mousepad, Charger"
+63,2024-01-17,"Smartphone, Mousepad, Tas Laptop"
+23,2024-01-19,Monitor
+91,2024-01-06,"Keyboard, Mousepad, Headphone"
+39,2024-02-04,"Mouse, Pulpen"
+94,2024-01-07,"Tas Laptop, Pulpen"
+106,2024-01-22,"Headphone, Smartphone"
+119,2024-01-20,"Keyboard, Headphone"
+178,2024-01-01,"Smartphone, Keyboard, Monitor"
+96,2024-01-04,Laptop
+80,2024-01-15,Mousepad
+6,2024-01-09,"Mouse, Charger, Casing"
+171,2024-02-09,"Smartphone, Mouse"
+22,2024-01-23,"Charger, Tas Laptop"
+127,2024-01-12,"Charger, Pulpen, Mousepad"
+55,2024-02-20,"Headphone, Smartphone, Keyboard"
+63,2024-02-09,Smartphone
+99,2024-01-11,"Tas Laptop, Mousepad"
+163,2024-02-22,"Monitor, Mousepad, Keyboard"
+161,2024-01-05,"Headphone, Pulpen"
+103,2024-01-16,"Keyboard, Pulpen, Casing"
+179,2024-02-06,"Laptop, Buku, Mousepad"
+147,2024-01-03,"Keyboard, Headphone"
+62,2024-02-27,"Buku, Laptop"
+45,2024-03-01,"Pulpen, Buku, Keyboard"
+17,2024-02-25,"Laptop, Keyboard, Smartphone"
+139,2024-02-13,Mousepad
+104,2024-02-16,"Headphone, Mousepad"
+47,2024-01-14,"Laptop, Tas Laptop, Headphone"
+109,2024-02-16,Headphone
+47,2024-01-08,Keyboard
+139,2024-01-19,"Mouse, Tas Laptop, Laptop"
+3,2024-02-24,Charger
+160,2024-02-17,"Smartphone, Charger"
+16,2024-02-07,"Smartphone, Charger"
+6,2024-02-08,Headphone
+142,2024-01-23,"Mouse, Buku, Pulpen"
+110,2024-02-09,"Mousepad, Tas Laptop"
+125,2024-02-06,Flashdisk
+157,2024-01-08,"Laptop, Mouse"
+86,2024-02-12,"Laptop, Pulpen, Casing"
+186,2024-01-20,"Flashdisk, Pulpen"
+129,2024-02-13,"Mousepad, Monitor, Smartphone"
+181,2024-01-28,"Tas Laptop, Headphone"
+181,2024-01-03,"Mouse, Buku, Mousepad"
+120,2024-02-03,"Pulpen, Charger"
+136,2024-01-09,"Headphone, Buku"
+28,2024-01-05,"Tas Laptop, Charger, Smartphone"
+164,2024-02-16,"Smartphone, Pulpen"
+120,2024-02-13,"Headphone, Laptop"
+130,2024-01-18,Charger
+10,2024-01-01,Buku
+41,2024-01-19,"Monitor, Mousepad, Charger"
+114,2024-02-23,"Casing, Mouse"
+23,2024-01-20,"Charger, Tas Laptop, Laptop"
+158,2024-02-01,"Laptop, Headphone"
+100,2024-02-12,Casing
+2,2024-02-09,"Headphone, Flashdisk"
+73,2024-01-17,"Charger, Laptop, Headphone"
+180,2024-01-30,"Buku, Flashdisk"
+133,2024-02-06,Laptop
+161,2024-02-26,"Headphone, Laptop, Charger"
+24,2024-02-09,"Charger, Casing, Mousepad"
+123,2024-01-02,"Pulpen, Charger"
+91,2024-02-02,Tas Laptop
+52,2024-01-13,"Mousepad, Buku, Headphone"
+29,2024-02-23,Pulpen
+172,2024-02-16,"Flashdisk, Headphone, Buku"
+196,2024-02-27,"Headphone, Monitor"
+51,2024-01-31,"Headphone, Buku, Mousepad"
+152,2024-01-31,"Smartphone, Monitor"
+13,2024-01-08,"Laptop, Mousepad, Casing"
+30,2024-01-12,Buku
+107,2024-01-12,Buku
+141,2024-01-20,Laptop
+70,2024-01-29,Smartphone
+31,2024-01-30,Monitor
+172,2024-01-19,Mousepad
+161,2024-02-15,"Buku, Charger"
+38,2024-01-18,Pulpen
+101,2024-01-14,"Charger, Keyboard, Flashdisk"
+167,2024-02-14,"Charger, Smartphone"
+197,2024-01-05,"Pulpen, Mousepad"
+195,2024-02-24,Headphone
+138,2024-01-29,"Mouse, Flashdisk, Mousepad"
+31,2024-02-01,"Buku, Casing, Mousepad"
+51,2024-01-01,"Monitor, Charger, Keyboard"
+196,2024-02-11,"Keyboard, Smartphone, Laptop"
+152,2024-03-01,"Mousepad, Headphone"
+141,2024-02-21,"Keyboard, Mouse"
+155,2024-02-19,"Laptop, Headphone"
+175,2024-01-02,"Casing, Smartphone, Mouse"
+5,2024-01-07,Smartphone
+109,2024-01-31,"Headphone, Laptop"
+81,2024-02-25,Tas Laptop
+163,2024-01-19,Flashdisk
+31,2024-02-10,"Keyboard, Pulpen"
+97,2024-01-09,Casing
+34,2024-02-20,Smartphone
+110,2024-02-12,Casing
+73,2024-01-22,Smartphone
+149,2024-02-07,Headphone
+64,2024-02-22,"Monitor, Smartphone, Mouse"
+2,2024-02-09,Tas Laptop
+98,2024-02-27,"Laptop, Charger, Flashdisk"
+105,2024-02-27,"Mouse, Tas Laptop"
+39,2024-01-24,"Buku, Mousepad"
+30,2024-01-03,"Laptop, Tas Laptop"
+91,2024-01-06,"Monitor, Smartphone"
+104,2024-02-29,"Casing, Charger"
+22,2024-02-01,"Casing, Tas Laptop, Buku"
+49,2024-01-02,"Monitor, Charger, Mouse"
+21,2024-02-04,"Laptop, Casing"
+163,2024-02-20,"Flashdisk, Mouse, Headphone"
+81,2024-01-20,"Tas Laptop, Pulpen"
+126,2024-02-26,Casing
+165,2024-01-02,"Casing, Pulpen"
+146,2024-02-04,Pulpen
+191,2024-02-29,"Casing, Charger"
+49,2024-01-21,"Laptop, Smartphone"
+157,2024-01-12,"Pulpen, Tas Laptop"
+32,2024-02-04,"Mouse, Buku"
+151,2024-02-26,"Laptop, Pulpen"
+76,2024-01-05,"Mousepad, Laptop"
+55,2024-02-28,Buku
+119,2024-01-18,"Keyboard, Tas Laptop, Casing"
+139,2024-02-06,Mousepad
+199,2024-01-25,"Pulpen, Charger"
+144,2024-02-26,"Flashdisk, Laptop, Keyboard"
+8,2024-01-06,"Charger, Keyboard"
+27,2024-01-25,Buku
+133,2024-01-02,Smartphone
+78,2024-02-09,"Pulpen, Buku, Laptop"
+47,2024-01-25,Casing
+33,2024-01-31,"Tas Laptop, Buku"
+158,2024-02-29,"Mouse, Pulpen"
+79,2024-01-31,Mousepad
+57,2024-01-15,"Mousepad, Casing"
+67,2024-01-05,Flashdisk
+86,2024-01-03,"Headphone, Flashdisk"
+115,2024-01-30,Smartphone
+200,2024-02-20,"Charger, Pulpen"
+104,2024-01-26,Buku
+6,2024-01-21,"Smartphone, Charger, Buku"
+10,2024-01-11,"Headphone, Tas Laptop"
+22,2024-01-31,"Keyboard, Buku, Mousepad"
+63,2024-01-13,"Flashdisk, Pulpen, Buku"
+109,2024-02-28,Pulpen
+54,2024-01-25,"Smartphone, Tas Laptop"
+30,2024-02-19,"Keyboard, Tas Laptop, Laptop"
+47,2024-01-28,Monitor
+191,2024-02-11,"Mouse, Casing"
+39,2024-01-20,"Buku, Pulpen"
+98,2024-02-11,"Laptop, Smartphone"
+163,2024-01-08,"Mousepad, Charger, Headphone"
+192,2024-01-12,"Flashdisk, Mouse, Mousepad"
+131,2024-02-13,Laptop
+136,2024-02-02,"Pulpen, Smartphone, Charger"
+45,2024-01-25,Buku
+65,2024-02-23,"Pulpen, Flashdisk"
+55,2024-02-07,Flashdisk
+156,2024-01-25,"Buku, Tas Laptop"
+119,2024-02-03,"Flashdisk, Charger, Pulpen"
+195,2024-01-26,"Laptop, Headphone, Buku"
+61,2024-01-26,"Mouse, Buku, Keyboard"
+168,2024-02-25,Laptop
+187,2024-01-29,"Pulpen, Flashdisk"
+65,2024-02-29,"Flashdisk, Laptop"
+127,2024-01-20,"Laptop, Charger, Tas Laptop"
+179,2024-01-08,"Casing, Mouse, Pulpen"
+92,2024-01-02,Mouse
+65,2024-02-21,"Laptop, Charger, Casing"
+135,2024-02-05,Charger
+81,2024-01-11,"Keyboard, Buku, Casing"
+85,2024-01-03,"Pulpen, Casing, Tas Laptop"
+54,2024-02-05,Buku
+160,2024-02-01,Mouse
+62,2024-02-11,Smartphone
+53,2024-01-18,"Headphone, Laptop"
+9,2024-02-14,Pulpen
+64,2024-01-22,Mouse
+134,2024-01-08,Smartphone
+75,2024-02-13,Keyboard
+153,2024-02-11,"Mousepad, Headphone"
+49,2024-02-06,Pulpen
+7,2024-01-06,"Keyboard, Mouse, Mousepad"
+29,2024-01-13,"Laptop, Charger"
+35,2024-02-04,"Headphone, Smartphone"
+153,2024-01-19,"Mouse, Tas Laptop, Pulpen"
+44,2024-02-04,"Tas Laptop, Buku"
+42,2024-01-25,"Laptop, Casing"
+45,2024-02-14,Tas Laptop
+9,2024-02-15,"Casing, Mouse, Flashdisk"
+64,2024-02-10,Mousepad
+46,2024-01-28,Keyboard
+181,2024-02-24,"Smartphone, Mouse"
+160,2024-02-07,Keyboard
+147,2024-01-02,"Tas Laptop, Casing"
+157,2024-01-12,"Mouse, Flashdisk, Monitor"
+115,2024-01-03,"Laptop, Tas Laptop"
+173,2024-02-01,"Mousepad, Buku, Keyboard"
+11,2024-01-20,Smartphone
+101,2024-02-17,"Charger, Smartphone"
+98,2024-01-02,"Monitor, Mousepad, Smartphone"
+85,2024-02-05,"Monitor, Smartphone"
+163,2024-01-08,"Tas Laptop, Casing, Pulpen"
+117,2024-02-17,Monitor
+79,2024-01-18,"Casing, Smartphone"
+162,2024-02-29,Pulpen
+53,2024-01-09,"Pulpen, Tas Laptop, Keyboard"
+60,2024-02-22,"Tas Laptop, Smartphone, Laptop"
+78,2024-02-24,"Keyboard, Casing, Smartphone"
+176,2024-02-21,"Laptop, Buku, Casing"
+73,2024-02-14,"Keyboard, Flashdisk"
+81,2024-01-27,Charger
+160,2024-01-25,Headphone
+200,2024-02-17,"Laptop, Monitor, Pulpen"
+84,2024-02-26,Buku
+62,2024-02-06,"Headphone, Flashdisk"
+27,2024-02-23,Tas Laptop
+158,2024-01-23,Mousepad
+112,2024-02-04,Headphone
+193,2024-01-19,Smartphone
+66,2024-01-10,Mouse
+52,2024-02-12,"Casing, Mousepad, Pulpen"
+175,2024-01-07,"Flashdisk, Smartphone, Laptop"
+80,2024-02-25,Buku
+6,2024-01-27,"Mouse, Mousepad, Casing"
+20,2024-01-19,"Laptop, Pulpen, Keyboard"
+40,2024-01-02,"Mousepad, Mouse"
+55,2024-02-20,Headphone
+130,2024-02-10,Buku
+8,2024-01-01,"Flashdisk, Keyboard, Charger"
+180,2024-01-27,"Casing, Flashdisk"
+70,2024-02-08,Laptop
+74,2024-01-25,Keyboard
+19,2024-01-28,Smartphone
+11,2024-03-01,"Flashdisk, Mouse, Pulpen"
+83,2024-01-07,"Mousepad, Mouse, Buku"
+128,2024-02-10,"Keyboard, Mousepad, Monitor"
+10,2024-02-12,"Mousepad, Charger"
+93,2024-02-11,"Mousepad, Buku"
+196,2024-01-14,"Mouse, Flashdisk"
+72,2024-02-05,Smartphone
+86,2024-01-12,Tas Laptop
+197,2024-01-08,"Monitor, Mouse"
+174,2024-03-01,Flashdisk
+129,2024-01-18,Tas Laptop
+40,2024-02-26,Tas Laptop
+90,2024-02-05,"Pulpen, Smartphone, Flashdisk"
+121,2024-01-01,"Monitor, Flashdisk"
+99,2024-02-20,"Monitor, Charger"
+69,2024-02-15,Buku
+64,2024-01-27,Mouse
+148,2024-01-18,"Casing, Laptop"
+200,2024-02-14,"Smartphone, Casing"
+99,2024-02-13,Mouse
+88,2024-02-19,Keyboard
+136,2024-01-17,"Monitor, Mouse"
+126,2024-02-25,Pulpen
+173,2024-02-26,"Tas Laptop, Casing"
+7,2024-01-19,"Monitor, Casing, Tas Laptop"
+140,2024-02-12,"Mouse, Headphone, Pulpen"
+35,2024-02-24,Tas Laptop
+146,2024-02-17,"Charger, Mouse"
+188,2024-01-26,"Pulpen, Charger"
+52,2024-02-14,Smartphone
+190,2024-01-11,"Pulpen, Keyboard"
+110,2024-01-06,Laptop
+13,2024-03-01,"Mouse, Buku, Flashdisk"
+145,2024-02-07,"Keyboard, Monitor, Casing"
+45,2024-02-02,"Mouse, Laptop"
+62,2024-01-23,"Monitor, Mouse"
+124,2024-01-07,"Mouse, Casing"
+196,2024-01-28,"Tas Laptop, Buku, Casing"
+37,2024-01-25,"Tas Laptop, Monitor"
+68,2024-02-12,"Casing, Flashdisk"
+23,2024-01-07,"Buku, Casing"
+32,2024-01-16,"Buku, Headphone"
+140,2024-02-29,Pulpen
+78,2024-01-31,"Casing, Pulpen, Laptop"
+87,2024-01-27,"Buku, Monitor"
+9,2024-01-19,"Charger, Headphone, Flashdisk"
+149,2024-01-21,"Monitor, Pulpen, Flashdisk"
+122,2024-02-03,Tas Laptop
+193,2024-01-30,"Pulpen, Smartphone"
+188,2024-01-25,"Laptop, Flashdisk, Charger"
+58,2024-01-15,"Smartphone, Buku"
+95,2024-02-16,"Monitor, Charger"
+90,2024-02-12,"Headphone, Smartphone"
+31,2024-02-04,Charger
+92,2024-02-02,"Monitor, Mouse, Laptop"
+111,2024-02-05,Casing
+163,2024-02-05,"Headphone, Mousepad"
+157,2024-01-13,"Buku, Laptop"
+199,2024-01-07,Mousepad
+95,2024-02-04,"Mouse, Smartphone"
+132,2024-01-08,"Smartphone, Tas Laptop"
+165,2024-01-29,Charger
+151,2024-01-12,Casing
+8,2024-02-19,"Mouse, Mousepad"
+79,2024-02-14,"Flashdisk, Mouse"
+130,2024-02-26,"Smartphone, Monitor"
+67,2024-02-12,"Tas Laptop, Mousepad, Charger"
+139,2024-01-18,Tas Laptop
+181,2024-01-12,"Smartphone, Pulpen"
+9,2024-01-13,"Headphone, Keyboard"
+50,2024-01-14,"Keyboard, Laptop"
+94,2024-02-29,Charger
+117,2024-01-30,"Headphone, Charger"
+75,2024-01-17,"Flashdisk, Keyboard"
+100,2024-02-29,"Casing, Flashdisk, Headphone"
+113,2024-01-29,"Flashdisk, Smartphone, Casing"
+154,2024-02-04,Laptop
+25,2024-01-22,Laptop
+31,2024-01-27,Tas Laptop
+117,2024-02-08,"Monitor, Tas Laptop, Casing"
+138,2024-02-10,"Pulpen, Mousepad, Tas Laptop"
+78,2024-01-28,Tas Laptop
+156,2024-02-21,Charger
+10,2024-02-23,Monitor
+108,2024-01-19,"Flashdisk, Pulpen, Monitor"
+73,2024-02-15,Headphone
+95,2024-02-22,"Charger, Headphone, Mouse"
+171,2024-02-12,Flashdisk
+31,2024-02-15,"Mousepad, Charger, Casing"
+18,2024-02-02,"Casing, Charger, Flashdisk"
+17,2024-02-15,"Mousepad, Headphone"
+157,2024-01-18,"Keyboard, Smartphone, Charger"
+130,2024-02-13,"Tas Laptop, Headphone"
+135,2024-02-12,"Keyboard, Tas Laptop"
+25,2024-01-14,Casing
+119,2024-02-27,"Pulpen, Headphone, Mousepad"
+98,2024-01-01,Smartphone
+75,2024-02-02,"Flashdisk, Pulpen"
+117,2024-01-01,Flashdisk
+99,2024-01-07,"Laptop, Headphone, Pulpen"
+72,2024-02-29,"Pulpen, Tas Laptop"
+140,2024-01-28,"Mouse, Keyboard, Pulpen"
+113,2024-01-31,"Headphone, Keyboard, Tas Laptop"
+76,2024-01-22,"Casing, Mousepad, Tas Laptop"
+15,2024-03-01,"Tas Laptop, Mouse, Charger"
+3,2024-01-20,"Tas Laptop, Smartphone, Headphone"
+136,2024-02-11,Tas Laptop
+3,2024-01-29,Monitor
+173,2024-01-03,Tas Laptop
+126,2024-01-04,"Laptop, Keyboard, Monitor"
+136,2024-02-27,"Mouse, Monitor, Keyboard"
+196,2024-02-13,"Keyboard, Headphone"
+33,2024-02-01,"Mouse, Tas Laptop"
+127,2024-01-03,"Mousepad, Monitor"
+196,2024-02-08,"Casing, Buku, Keyboard"
+25,2024-02-19,Tas Laptop
+103,2024-01-17,"Casing, Laptop"
+117,2024-01-04,Tas Laptop
+112,2024-01-10,Monitor
+23,2024-02-29,Mouse
+58,2024-02-12,Keyboard
+94,2024-02-28,"Smartphone, Monitor"
+177,2024-01-02,"Headphone, Buku"
+184,2024-01-22,"Flashdisk, Keyboard, Smartphone"
+165,2024-01-08,"Casing, Pulpen, Tas Laptop"
+12,2024-01-13,Mousepad
+144,2024-03-01,"Keyboard, Tas Laptop"
+18,2024-02-08,Laptop
+148,2024-02-05,"Keyboard, Mousepad, Mouse"
+80,2024-01-14,Tas Laptop
+155,2024-01-12,Laptop
+198,2024-01-13,"Mouse, Flashdisk"
+174,2024-01-04,"Keyboard, Tas Laptop, Monitor"
+173,2024-02-08,"Keyboard, Mouse"
+134,2024-02-27,"Mouse, Mousepad"
+46,2024-01-23,"Buku, Headphone, Pulpen"
+58,2024-01-31,"Keyboard, Monitor"
+82,2024-01-24,"Headphone, Buku"
+104,2024-02-06,Monitor
