@@ -5,7 +5,7 @@ Dengan menyimpan source code dan dataset di GitHub, pembaca dapat dengan mudah m
 #Buku data Mining ini diperuntuntuhkan kepada pembaca yang berminat untuk menkaji lebih dalam tentang penambangan data dan implementasinya dalam kode Program Python juga R.
 
 Buku ini memuat beragam teknik, mulai dari metode regresi dasar seperti regresi linear dan regresi ganda hingga teknik yang lebih kompleks seperti Generalized Linear Models (GLM), regresi logistik, dan regresi probit. Selain itu, buku ini juga memperkenalkan pendekatan modern seperti Artificial Neural Network (ANN), yang memungkinkan pengolahan data kompleks menggunakan jaringan saraf tiruan, serta Social Network Analysis (SNA), yang digunakan untuk menganalisis hubungan dalam jaringan sosial. Dengan cakupan yang luas dan fokus pada aplikasi praktis, buku ini menawarkan wawasan yang kaya bagi pembaca untuk memanfaatkan potensi data secara maksimal. Rincian pembahasan akan dibagi dalam beberapa bab sebagai berikut:
-•	Bab 2	: Data Preprocessing dan Exploratory Data Analysis(EDA)
+<br>•	Bab 2	: Data Preprocessing dan Exploratory Data Analysis(EDA)</br>
 •	Bab 3	: Metode Regresi Linear
 •	Bab 4 : Metode Regresi Ganda
 •	Bab 5 : Metode Regresi Poisson 
